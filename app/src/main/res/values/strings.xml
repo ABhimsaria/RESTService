@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RESTService</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_phoneNumber">Phone Number</string>
+    <string name="prompt_note">note</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_signout">Sign Out</string>
+    <string name="error_invalid_email">This email addres is invalid</string>
+    <string name="error_password_length">Password length must be 5 characters.</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_url_not_found">Invalid URL! PHP file could not be found.</string>
+    <string name="info_label">User Information</string>
+</resources>
